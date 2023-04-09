@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFrameworks>netcoreapp2.1;netcoreapp3.1;net5.0;net6.0</TargetFrameworks>
+    <RootNamespace>find_env</RootNamespace>
+
+    <!-- <PublishAot>true</PublishAot> -->
+    <!-- <StripSymbols>true</StripSymbols> -->
+
+    <PackAsTool>true</PackAsTool>
+    <ToolCommandName>find-env</ToolCommandName>
+    <PackageOutputPath>./nupkg</PackageOutputPath>
+  </PropertyGroup>
+
+</Project>

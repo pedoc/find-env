@@ -1,0 +1,10 @@
+{
+  "FileVersion": 2,
+  "Id": "e5386e40-8c46-4da7-afeb-a6de625088f7",
+  "Items": [
+    {
+      "Id": "99485a7f-24c7-4b68-9894-148eeaf0814e",
+      "Command": "conda"
+    }
+  ]
+}

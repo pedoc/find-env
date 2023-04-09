@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "find-env": {
+      "commandName": "Project",
+      "commandLineArgs": "conda"
+    }
+  }
+}
