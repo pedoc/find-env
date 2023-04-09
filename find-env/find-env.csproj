@@ -11,6 +11,11 @@
     <PackAsTool>true</PackAsTool>
     <ToolCommandName>find-env</ToolCommandName>
     <PackageOutputPath>./nupkg</PackageOutputPath>
+
+    <Version>1.0.1</Version>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/pedoc/find-env.git</RepositoryUrl>
+    <PublishRepositoryUrl>true</PublishRepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>

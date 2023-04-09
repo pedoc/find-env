@@ -70,7 +70,7 @@ namespace find_env
                     var f = Directory.GetFiles(pathDir, full, SearchOption.TopDirectoryOnly);
                     if (f.Length != 0)
                     {
-                        Console.WriteLine($"[{scope}]Find {full} in {pathDir}");
+                        Console.WriteLine($"[{scope}] Find {full} in {pathDir}");
                     }
                 }
             }
